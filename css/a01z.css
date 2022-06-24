@@ -1,0 +1,169 @@
+.ymbeijin{
+    position: fixed;
+    top:0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -2;
+    background-size:cover;
+    background-position: center;
+    }
+    .tianjiaanniu{
+    position: fixed;
+    top:20px;
+    left:20px;
+    width: 30px;
+    height:30px;
+    background-image: url(../img/jiahao.png);
+    background-size: cover;
+    cursor: pointer; 
+    border-radius: 10px 10px 10px 10px;
+    }
+    .tianjiaanniu:hover{
+        transition: 0.3s;
+        background-color:rgba(255, 255, 255, 0.377);
+    }
+    #xjckym{
+        position: fixed;
+        margin: auto;
+        top: 0px;
+        left: 0px;
+        right: 0px;
+        bottom: 0px;
+    width: 400px;
+    height: 600px;
+    z-index: 114514;
+    }
+    .xiamian{
+        position: absolute;
+        bottom: 0px;
+        left:0px;
+        width: 100%;
+        height: 100px;
+        background-color: rgb(64, 64, 64);
+        border-radius: 0px 0px 10px 10px;
+    }
+    .shangmian{
+        position: absolute;
+        top: 0px;
+        left:0px;
+        width: 100%;
+        height: 70px;
+        background-color: rgb(64, 64, 64);
+        border-radius: 10px 10px 0px 0px;
+        line-height: 70px;
+        text-align: center;
+        color: rgb(190, 190, 190);
+        font-size: 25;
+    }
+    .vfhyrhgb{
+        position: absolute;
+        top: 15px;
+        right: 15px;
+        width: 40px;
+        height: 40px;
+        background-color: rgba(255, 255, 255, 0);
+        border-radius: 10px 10px 10px 10px;
+        cursor: pointer;
+        background-image: url(../img/797.png);
+        background-size: contain;
+    }
+    .vfhyrhgb:hover{
+        top: 5px;
+        right: 5px;
+        width: 60px;
+        height: 60px;
+        transition: 0.2s;
+        background-color: rgb(90, 90, 90);
+    }
+    #zhongjian{
+        position: absolute;
+        top: 70px;
+        left:0px;
+        width: 100%;
+        height: 430px;
+        background-color: rgb(120, 120, 120);
+        -webkit-box-shadow:inset 0 0 10px rgb(32, 32, 32);  
+      -moz-box-shadow:inset 0 0 10px rgb(32, 32, 32);  
+      box-shadow:inset 0 0 10px rgb(32, 32, 32);  
+      overflow:auto;
+    
+    }
+    
+    .shurukuang{
+        position: relative;
+    width: 100%;
+    height: 50px;
+    color: rgb(255, 255, 255);
+    line-height: 50px;
+    font-size: 20;
+    }
+    
+    .bqxxsjk{
+    position: absolute;
+    width: 200px;
+    height: 30px;
+    top:10px;
+    outline: none;
+    right: 35px;
+    background-color: #ffffff00; 
+    border:rgba(204, 204, 204, 0) 0px solid;  
+    font-size:15px;  
+    color: white;
+    text-align: right;
+    
+    }
+    .bqxxsjk2{
+    position: absolute;
+    width: 200px;
+    height: 30px;
+    top:10px;
+    outline: none;
+    right: 35px;
+    background-color: #ffffff00; 
+    border:rgb(48, 48, 48) 2px solid;  
+    font-size:15px;  
+    color: white;
+    text-align: right;
+    border-radius: 5px 5px 5px 5px;
+    }
+    .wanchen{
+    position: absolute;
+    top:30px;
+    height: 35px;
+    left:80px;
+    width: 100px;
+    color: rgb(255, 255, 255);
+    line-height: 35px;
+    font-size: 22;
+    border-radius: 35px 35px 35px 35px;
+    text-align: center;
+    cursor: pointer; 
+    }
+    .wanchen:hover{
+        transition: 0.2s;
+    top:20px;
+    height: 55px;
+    line-height: 55px;
+    left:70px;
+    width: 120px;
+    border-radius: 55px 55px 55px 55px;
+    }
+    .qvxiao{
+    position: absolute;
+    top:30px;
+    height: 35px;
+    left:220px;
+    width: 100px;
+    color: rgb(120, 120, 120);
+    line-height: 35px;
+    font-size: 22;
+    border-radius: 35px 35px 35px 35px;
+    text-align: center;
+    cursor: pointer; 
+    background-color: rgb(49, 49, 49);
+    }
+    .qvxiao:hover{
+        transition: 0.3s;
+        background-color: rgb(75, 75, 75);
+    }

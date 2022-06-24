@@ -1,0 +1,192 @@
+.zjsrk{
+    position: fixed;
+    margin: auto;
+    top: 200px;
+    left: 0px;
+    right: 0px;
+    width: 300px;
+    height: 50px;
+    display: block;
+    z-index: 0;
+    border-radius: 25px 25px 25px 25px;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    opacity:1;
+    background-color: rgba(0, 0, 0, 0.3);
+    
+}
+
+#zhusrk{
+    position: absolute;
+    top: 5px;
+    margin: auto;
+    left: 0px;
+    right: 0px;
+    width: 200px;
+    height: 40px;
+    outline: none;
+    background-color: rgba(0, 0, 0, 0);
+    border: 0px;
+    text-align:center;
+    color: white;
+    font-size: 20;
+}
+.fdrrf{
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: 32px;
+    height: 32px;
+      
+        -webkit-mask-size:cover ;
+        mask-size:cover ;
+        z-index: 0;
+}
+.xshjhds{
+    position: absolute;
+    top: 7px;
+    
+    width: 36px;
+    height: 36px;
+z-index: 2;
+transition: 0.2s;
+background-color: rgba(255, 255, 255, 0);
+border-radius: 18px 18px 18px 18px;
+cursor: pointer;
+}
+.xshjhds:hover{
+    transition: 0.2s;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+#srkmsbj{
+    position: fixed;
+    top: 0px;
+    left:0px;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+    z-index: 0;
+}
+#xsbvbv{
+    position: fixed;
+    top: -25px;
+    left:-150px;
+    width: 150px;
+    height: 100px;
+    border-radius: 15px 15px 15px 15px;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    opacity:1;
+    background-color: rgba(0, 0, 0, 0.3);
+    overflow:auto;
+}
+.dffchy{
+    transition: 0.3s;
+    position: relative;
+    margin: auto;
+    top:5px;
+    left: 0px;
+    right: 0px;
+    width: 140px;
+    height: 30px;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 18px 18px 18px 18px;
+}
+.dffchy:hover{
+    transition: 0.3s;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+.dffchy:active{
+    transition: 0.3s;
+    top:7px;
+    width: 130px;
+    height: 26px;
+}
+
+.dcyegyg{
+    position: absolute;
+    margin: auto;
+    top:0px;
+    bottom: 0px;
+    left: 10px;
+    width: 26px;
+    height: 26px;
+    background-size: cover;
+    z-index: -1;
+}
+.deddede{
+    position: absolute;
+    margin: auto;
+    top:0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    text-align:center;
+    line-height: 30px;
+    font-size: 16;
+    color: rgba(255, 255, 255, 0.6);
+}
+.greevfe{
+    position: absolute;
+    margin: auto;
+    top:0px;
+    bottom: 0px;
+    right: 10px;
+    width: 26px;
+    height: 26px;
+    background-size: cover;
+    z-index: 1;
+    background-image: url("../img/bqck/dustbin.png");
+    border-radius: 8px 8px 8px 8px;
+    cursor: pointer;
+
+}
+.greevfe:hover{
+    transition: 0.3s;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+.greevfe:active{
+    transition: 0.3s;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+.greevfe2{
+    position: absolute;
+    margin: auto;
+    top:0px;
+    bottom: 0px;
+    right: 10px;
+    width: 26px;
+    height: 26px;
+    background-size: cover;
+    z-index: 1;
+    background-image: url("../img/bqck/gd-r.png");
+    border-radius: 8px 8px 8px 8px;
+}
+#tihsbd{
+    transition: 0.3s;
+    position: absolute;
+    bottom:  -35px;
+    left:-10px;
+    width: 30px;
+    height: 30px;
+    border-radius: 10px 10px 10px 10px;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    opacity:1;
+
+    background-image: url("../img/jiahao.png");
+    background-size: cover;
+}
+#tihsbd:hover{
+    transition: 0.3s;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+#tihsbd:active{
+    transition: 0.3s;
+    bottom:  -33px;
+    left:-8px;
+    width: 26px;
+    height: 26px;
+}

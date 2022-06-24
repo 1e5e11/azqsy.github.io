@@ -1,0 +1,186 @@
+#eduhdxnji{
+    transition: 0.2s;
+    position: fixed;
+    margin: auto;
+    top: 200px;
+    right: 0px;
+    left:0px;
+    width: 600px;
+    height: 400px;
+    z-index: 2;
+    border-radius: 20px 20px 20px 20px;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+#eduhdxnji:hover{
+    transition: 0.2s;
+
+}
+#dcsccr{
+    position: absolute;
+    top: 30px;
+    left:0px;
+    width: 100%;
+    height: 370px;
+    z-index: 0;
+    border-radius: 0px 0px 20px 20px;
+    overflow: hidden;
+}
+#dhujhu{
+    position: absolute;
+    top: 0px;
+    left:0px;
+    width: 200%;
+    height: 100%;
+    z-index: 0;
+    border-radius: 0px 0px 20px 20px;
+}
+#lierjlu{
+    position: absolute;
+    top: 0px;
+    left:0px;
+    width: 600px;
+    height: 100%;
+    z-index: 0;
+    overflow: auto;
+    background-color: rgb(0, 0, 0, 0);
+}
+#cdhuijhi{
+    position: absolute;
+    top: 0px;
+    left:600px;
+    width: 600px;
+    height: 100%;
+    z-index: 0;
+    overflow: auto;
+    background-color: rgb(0, 0, 0, 0);
+}
+.chudbcg{
+    z-index: -1;
+    position: absolute;
+    top: 0px;
+    left:0px;
+    width: 100%;
+    height: 100%;
+}
+.ffefece{
+    transition: 0.2s;
+    right: 30px;
+        top:0px;
+        position: absolute;
+        cursor: pointer; 
+       width: 30px;
+       height: 20px;
+       border-radius: 0px 0px 0px 0px;
+       background-size: cover;
+       z-index: 2;
+       background-image: url(../img/bqck/minimize.png);
+       background-color: rgba(255, 255, 255, 0);
+}
+.ffefece:hover{
+    transition: 0.2s;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+.dcgud{
+    transition: 0.2s;
+    position: relative;
+    left: 0px;
+    width: 100%;
+    height: 30px;
+    background-color: rgba(255, 255, 255, 0);
+}
+.dcgud:hover{
+    transition: 0.2s;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+.dcgud2{
+    transition: 0.2s;
+    position: absolute ;
+    left: 0px;
+    width: 100%;
+    height: 30px;
+    bottom: 0px;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    line-height: 30px;
+    font-size: 15;
+    color: rgba(0, 0, 0, 0.8);
+    cursor: default;
+    z-index: -1;
+}
+.gdeyfd{
+    position: absolute;
+    top:2px;
+    left:5px;
+    width: 140px;
+    height: 26px;
+    outline: none;
+    border: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 15;
+    color: #000;
+}
+.dgeyuh{
+    position: absolute;
+    top:2px;
+    right: 5px;
+    width: 26px;
+    height: 26px;
+    outline: none;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 5px 5px 5px 5px;
+    background-size: cover;
+}
+.dgeyuh:hover{
+    transition: 0.2s;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+.bghedb{
+    position: absolute;
+    top:2px;
+    left:15px;
+    width: 380px;
+    height: 26px;
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 16;
+    color: rgba(0, 0, 0, 0.8);
+    text-align: left;
+    line-height: 26px;
+    cursor: default;
+    font-family:Microsoft YaHei;
+}
+.cececv{
+    position: absolute;
+    top:2px;
+    right:35px;
+    width: 160px;
+    height: 26px;
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 15;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: left;
+    line-height: 26px;
+    cursor: default;
+    font-family:exo;
+}
+.dcgud3{
+    transition: 0.2s;
+    position: absolute ;
+    margin: auto;
+    left: 0px;
+    right: 0px;
+    width: 200px;
+    height: 30px;
+    bottom: 4px;
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.1);
+    text-align: center;
+    line-height: 30px;
+    font-size: 15;
+    color: rgba(0, 0, 0, 0.8);
+    cursor: pointer;
+    z-index: -1;
+}

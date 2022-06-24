@@ -1,0 +1,222 @@
+#gbggbfvfs{
+    transition: 0.1s;
+    position: absolute;
+    margin: auto;
+    right: 145px;
+    top: 0px;
+    bottom: 0px;
+    width: 35px;
+    height: 35px;
+    z-index:1;
+    border-radius: 5px 5px 5px 5px;
+    background-image: url(../img/bqck/gxh.png);
+    background-size: cover;
+}
+#gbggbfvfs:hover{
+    transition: 0.1s;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+#gbggbfvfs:active{
+    transition: 0.1s;
+    height: 30px;
+    width: 30px;
+    right: 147px;
+}
+.cedrcrrs2{
+    transition: 0.1s;
+    position: absolute;
+    margin: auto;
+    bottom:50px;
+    left: 0px;
+    right: 0px;
+    width: 160px;
+    height: 50px;
+    background-color: rgb(0, 0, 0, 0.5);
+    border-radius: 25px 25px 25px 25px;
+    text-align:center;
+    line-height: 50px;
+    font-size: 23;
+    color: white;
+    cursor:default;
+}
+.cedrcrrs2:active{
+    transition: 0.1s;
+    bottom: 55px;
+    width: 150px;
+    height: 40px;
+    line-height: 40px;
+}
+#cdnhkiind{
+    position: absolute;
+    margin: auto;
+    top:60px;
+    left: 0px;
+    right: 0px;
+    width: 500px;
+    height: 420px;
+    overflow: auto;
+}
+.dchyubnyis{
+    position: relative;
+    margin: auto;
+    left: 0px;
+    right: 0px;
+    width: 450px;
+    height: 50px;
+}
+.dejknnmkj{
+    position: absolute;
+    margin: auto;
+    left: 0px;
+    top: 0px;
+    height: 30px;
+    bottom: 0px;
+    width: 200px;
+    text-align: left;
+    text-indent:10px;
+    line-height: 30px;
+    font-size: 20;
+    color: rgba(255, 255, 255, 0.5);
+    cursor: default;
+    z-index: -1;
+}
+#bdtvvr{
+    position:absolute;
+    margin: auto;
+    top:0px;
+    bottom: 0px;
+    right:0px;
+    width: 40px;
+    height: 40px;
+    border:0px solid rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0);
+}
+.decjnjfdvb{
+    position: relative;
+    margin: auto;
+    left: 0px;
+    right: 0px;
+    width: 450px;
+    height: 1px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+.dejknnmkj2{
+    position: absolute;
+    left: 0px;
+    top: 5px;
+    height: 30px;
+    bottom: 0px;
+    width: 200px;
+    text-align: left;
+    text-indent:10px;
+    line-height: 30px;
+    font-size: 20;
+    color: rgba(255, 255, 255, 0.5);
+    cursor: default;
+    z-index: -1;
+}
+#dqbz{
+    position: absolute;
+    left: 5px;
+    right: 0px;
+    top:53px;
+    width: 160px;
+    height: 90px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 15px 15px 15px 15px;
+    background-size:cover;
+    background-position: center;
+}
+.cdbcydbi{
+    position: relative;
+    margin: auto;
+    left: 0px;
+    right: 0px;
+    top: 170px;
+    width: 450px;
+    height: 90px;
+}
+.vrfrgfrgr{
+    transition: 0.1s;
+    display: inline-block;
+    position: relative;
+    top:5px;
+    left: 5px;
+    width: 105px;
+    height: 65px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px 10px 10px 10px;
+    background-size:cover;
+    background-position: center;
+    cursor: pointer;
+}
+.vrfrgfrgr:hover{
+    transition: 0.1s;
+    -webkit-filter: brightness(80%);
+    filter: brightness(80%);
+}
+.vrfrgfrgr:active{
+    transition: 0.1s;
+    width: 109px;
+    height: 69px;
+    -webkit-filter: brightness(80%);
+    filter: brightness(80%);
+}
+.edrfjuoo{
+    transition: 0.1s;
+    position: absolute;
+    bottom:50px;
+    left: 5px;
+    width: 400px;
+    height: 40px;
+    top: 355px;
+    background-color:#00000000;
+    border-radius: 10px 10px 10px 10px;
+    text-align:left;
+    font-size: 18;
+    color: white;
+    border: 1px solid ;
+    outline: none;    
+    text-indent:10px;
+}
+.vrfrgfecd{
+    transition: 0.1s;
+    position: absolute;
+    top:425px;
+    left: 5px;
+    width: 105px;
+    height: 65px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px 10px 10px 10px;
+    background-size:cover;
+}
+#rfnkhnju{
+    transition: 0.1s;
+    position: absolute;
+    top:435px;
+    left: 150px;
+    width: 105px;
+    height: 35px;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+    line-height: 35px;
+    font-size: 20;
+    color: rgb(255, 255, 255);
+    cursor:pointer;
+}
+.vfdnmoijm{
+    position: absolute;
+    left: 200px;
+    width: 250px;
+    height: 50px;
+}
+.fuihrfnv{
+    position: absolute;
+    margin: auto;
+    top:0px;
+    bottom: 0px;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px 10px 10px 10px;
+    cursor: pointer;
+}
